@@ -1,0 +1,6 @@
+objectid,filename,youtubeid,title,format,description,creator,recipient,date,date-is-approximate?,item_information,subject,location,latitude,longitude,related_publication,publisher-digital,source,findingaid,original-identifier,identifier,rights,rightsstatement,type,language,relation
+npc1,zsoldos.jpg,,Silla Zsoldos,image/jpg,"Weilder of Idel's Sword, Minister of Defense.","Eames, Larry",,2025,,,minister; elf,Statues,,,,,,,,,,,,,
+npc2,mort.jpg,,Nitzer Mort,image/jpg,Minister of History,"Eames, Larry",,2025,,,minster; gnome,Statues,,,,,,,,,,,,,
+npc3,stelios.jpg,,Horace Stelios,image/jpg,Leader of the Council,"Eames, Larry",,2025,,,minister; human,Statues,,,,,,,,,,,,,
+npc4,erica.jpg,,Erica Cruenta,image/jpg,"Warlord, deceased","Eames, Larry",,2023,,,bad guy; human,Vaalbara,,,,,,,,,,,,,
+npc5,magnolia.jpg,,Magnolia Arguta,image/jpg,"Wizard, evil","Eames, Larry",,2023,,,bad guy; human,Vaalbara,,,,,,,,,,,,,
